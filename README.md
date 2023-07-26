@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagdamba Tripathi 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 📫 Contact me on jagdtri2003@gmail.com
 
 <!---
